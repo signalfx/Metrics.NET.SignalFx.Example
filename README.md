@@ -1,3 +1,7 @@
+> **Warning**
+> 
+> **This project is archieved.**: Use https://github.com/open-telemetry/opentelemetry-dotnet instead.
+
 # Metrics.NET.SignalFx.Example
 Examples of using Metrics.NET.SignalFx
 
